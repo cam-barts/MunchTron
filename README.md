@@ -1,3 +1,4 @@
+# [MERGED](https://github.com/lordlabakdas/MunchTron/pull/6)
 # Working on a personal assistant
 
 ## Current skills include
